@@ -1,0 +1,21 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Image Processing\Image Processing\bin\Release\Image Processing.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Image Processing\Image Processing\bin\Release\Image Processing.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Image Processing\Image Processing\bin\Release\Image Processing.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Image Processing\Image Processing\obj\Release\Image_Processing.MainForm.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Image Processing\Image Processing\obj\Release\Image_Processing.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Image Processing\Image Processing\obj\Release\Image Processing.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Image Processing\Image Processing\obj\Release\Image Processing.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Image Processing\Image Processing\obj\Release\Image Processing.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Image Processing\Image Processing\obj\Release\Image Processing.csprojResolveAssemblyReference.cache
+C:\Users\KaRwTa\Desktop\Image Processing\Image Processing\bin\Release\Image Processing.exe.config
+C:\Users\KaRwTa\Desktop\Image Processing\Image Processing\obj\Release\Image Processing.exe
+C:\Users\KaRwTa\Desktop\Image Processing\Image Processing\obj\Release\Image Processing.pdb
+D:\computer science\courses\year 3\First Term\Algorithm\Project\Image Processing\Image Processing\bin\Release\Image Processing.exe.config
+D:\computer science\courses\year 3\First Term\Algorithm\Project\Image Processing\Image Processing\obj\Release\Image Processing.exe
+D:\computer science\courses\year 3\First Term\Algorithm\Project\Image Processing\Image Processing\obj\Release\Image Processing.pdb
+D:\computer science\courses\year 3\First Term\Algorithm\Project\Image Processing\Image Processing\bin\Release\Image Processing.exe
+D:\computer science\courses\year 3\First Term\Algorithm\Project\Image Processing\Image Processing\bin\Release\Image Processing.pdb
+D:\computer science\courses\year 3\First Term\Algorithm\Project\Image Processing\Image Processing\obj\Release\Image Processing.csprojResolveAssemblyReference.cache
+D:\computer science\courses\year 3\First Term\Algorithm\Project\Image Processing\Image Processing\obj\Release\Image_Processing.MainForm.resources
+D:\computer science\courses\year 3\First Term\Algorithm\Project\Image Processing\Image Processing\obj\Release\Image_Processing.Properties.Resources.resources
+D:\computer science\courses\year 3\First Term\Algorithm\Project\Image Processing\Image Processing\obj\Release\Image Processing.csproj.GenerateResource.Cache
